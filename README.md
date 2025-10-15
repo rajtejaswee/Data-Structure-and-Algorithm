@@ -6,11 +6,13 @@ Each topic includes a list of handpicked problems (mostly from **LeetCode**, **G
 ---
 ## Competitive Programming
 > Mastering Competitive Programming on Codeforces.
+
 | Problem | Difficulty | Link |
 |----------|-------------|------|
-| Young Physicist | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/69/A) |
-| Beautiful Matrix | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/263/A) |
-| Queue at the School | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/266/B) |
+| Young Physicist | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/69/A) | <br>
+| Beautiful Matrix | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/263/A) | <br>
+| Queue at the School | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/266/B) | <br>
+| Borze | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/32/B) | <br>
 
 ## 📘 1. Arrays
 > Mastering traversals, subarrays, prefix sums, and in-place manipulations.
