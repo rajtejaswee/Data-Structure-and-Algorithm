@@ -1,0 +1,29 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build and run (GCC 15)",
+            "type": "shell",
+            "command": "/opt/homebrew/bin/g++-15",
+            "args": [
+                "-std=c++17",
+                "-O2",
+                "-Wall",
+                "${file}",
+                "-o",
+                "${fileDirname}/${fileBasenameNoExtension}",
+                "&&",
+                "${fileDirname}/${fileBasenameNoExtension}",
+                "<",
+                "${fileDirname}/input.txt",
+                ">",
+                "${fileDirname}/output.txt"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": ["$gcc"]
+        }
+    ]
+}

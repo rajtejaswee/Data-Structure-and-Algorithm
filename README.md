@@ -4,6 +4,13 @@ This repository contains my personal DSA practice questions — organized topic-
 Each topic includes a list of handpicked problems (mostly from **LeetCode**, **GFG**, or **Coding Ninjas**) with direct links for quick reference.
 
 ---
+## Competitive Programming
+> Mastering Competitive Programming on Codeforces.
+| Problem | Difficulty | Link |
+|----------|-------------|------|
+| Young Physicist | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/69/A) |
+| Beautiful Matrix | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/263/A) |
+| Queue at the School | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/266/B) |
 
 ## 📘 1. Arrays
 > Mastering traversals, subarrays, prefix sums, and in-place manipulations.
@@ -150,6 +157,7 @@ Each topic includes a list of handpicked problems (mostly from **LeetCode**, **G
 ### 📅 Progress Tracker
 | Topic | Total Qs | Solved | In Progress |
 |--------|-----------|---------|--------------|
+| Competetive Programming | 100 | 3 | 0 |
 | Arrays | 25 | 5 | 2 |
 | Strings | 30 | 8 | 3 |
 | DP | 40 | 6 | 5 |
