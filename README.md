@@ -1,11 +1,24 @@
 # 🧠 Data Structures & Algorithms Practice
 
 This repository contains my personal DSA practice questions — organized topic-wise.  
-Each topic includes a list of handpicked problems (mostly from **LeetCode**, **GFG**, or **Coding Ninjas**) with direct links for quick reference.
+Each topic includes a list of handpicked problems (mostly from **LeetCode** and **Codeforces**) with direct links for quick reference.
 
 ---
+## Basics of C++:
+- [Demo](https://github.com/rajtejaswee/Data-Structure-and-Algorithm/blob/main/Basics/demo.cpp)
+- [Functions](https://github.com/rajtejaswee/Data-Structure-and-Algorithm/blob/main/Basics/functions.cpp)
+- [Vectors](https://github.com/rajtejaswee/Data-Structure-and-Algorithm/blob/main/Basics/vector.cpp)
+- [List](https://github.com/rajtejaswee/Data-Structure-and-Algorithm/blob/main/Basics/list.cpp)
+- [Pair](https://github.com/rajtejaswee/Data-Structure-and-Algorithm/blob/main/Basics/pair.cpp)
+- [Heaps](https://github.com/rajtejaswee/Data-Structure-and-Algorithm/blob/main/Basics/heap.cpp)
+- [Stack](https://github.com/rajtejaswee/Data-Structure-and-Algorithm/blob/main/Basics/stack.cpp)
+- [Queue](https://github.com/rajtejaswee/Data-Structure-and-Algorithm/blob/main/Basics/queue.cpp)
+- [Set](https://github.com/rajtejaswee/Data-Structure-and-Algorithm/blob/main/Basics/set.cpp)
+- [Map](https://github.com/rajtejaswee/Data-Structure-and-Algorithm/blob/main/Basics/map.cpp)
+
 ## Competitive Programming
-> Mastering Competitive Programming on Codeforces.
+> Mastering Competitive Programming on Codeforces,
+List of 100 beginner friendly questions on codeforces
 
 | Problem | Difficulty | Link |
 |----------|-------------|------|
@@ -13,6 +26,11 @@ Each topic includes a list of handpicked problems (mostly from **LeetCode**, **G
 | Beautiful Matrix | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/263/A) | <br>
 | Queue at the School | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/266/B) | <br>
 | Borze | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/32/B) | <br>
+| Beautiful Year | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/271/A) | <br>
+| Lights out | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/275/A) | <br>
+| Word | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/59/A) | <br>
+| Word Capitalization | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/281/A) | <br>
+| Nearly Lucky Number | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/110/A) | <br>
 
 ## 📘 1. Arrays
 > Mastering traversals, subarrays, prefix sums, and in-place manipulations.
@@ -157,9 +175,9 @@ Each topic includes a list of handpicked problems (mostly from **LeetCode**, **G
 ---
 
 ### 📅 Progress Tracker
-| Topic | Total Qs | Solved | In Progress |
-|--------|-----------|---------|--------------|
-| Competetive Programming | 100 | 3 | 0 |
+| Topic | Total Qs | Solved | 
+|--------|-----------|---------|
+| Competetive Programming | 100 | 6 | 
 | Arrays | 25 | 5 | 2 |
 | Strings | 30 | 8 | 3 |
 | DP | 40 | 6 | 5 |
