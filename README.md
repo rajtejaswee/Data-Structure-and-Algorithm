@@ -31,6 +31,9 @@ List of 100 beginner friendly questions on codeforces
 | Word | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/59/A) | <br>
 | Word Capitalization | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/281/A) | <br>
 | Nearly Lucky Number | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/110/A) | <br>
+| Stone on the Table | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/266/A) | <br>
+| Panoramix's Prediction | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/80/A) | <br>
+| Ultra-Fast Mathematician | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/61/A) | <br>
 
 ## 📘 1. Arrays
 > Mastering traversals, subarrays, prefix sums, and in-place manipulations.
