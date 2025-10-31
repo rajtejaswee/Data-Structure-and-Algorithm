@@ -4,7 +4,34 @@ This repository contains my personal DSA practice questions — organized topic-
 Each topic includes a list of handpicked problems (mostly from **LeetCode** and **Codeforces**) with direct links for quick reference.
 
 ---
-## Basics of C++:
+
+### 📅 Progress Tracker
+| Topic | Total Qs | Solved | Status | 
+|--------|-----------|---------|---------|
+| Basic Maths | 07 | 07 | Completed ✅ |
+| Basic Recursion | 10 | 10 | Completed ✅ | 
+| Basic Competitive Programming | 100 | 17 | In Progress 🧪 |
+| Arrays | 40 | 0 | Not Started ❌ |
+| Binary Search | 32 | 0 | Not Started ❌ |
+| String | 24 | 0 | Not Started ❌ |
+| Linked List | 31 | 0 | Not Started ❌ |
+| Recursion | 25 | 0 | Not Started ❌ |
+| Bit Manipulation | 18 | 0 | Not Started ❌ |
+| Stacks and Queues | 30 | 0 | Not Started ❌ |
+| Sliding Window and Two Pointers| 12 | 0 | Not Started ❌ |
+| Heaps | 17 | 0 | Not Started ❌ |
+| Greedy Algorithm | 16 | 0 | Not Started ❌ |
+| Binary Tree | 39 | 0 | Not Started ❌ |
+| Binary Search Tree | 16 | 0 | Not Started ❌ |
+| Graphs | 54 | 0 | Not Started ❌ |
+| Dynamic Programming | 56 | 0 | Not Started ❌ |
+| Tries | 56 | 0 | Not Started ❌ |
+
+
+---
+
+
+## Basics of C++/STL Libraries:
 - [Demo](https://github.com/rajtejaswee/Data-Structure-and-Algorithm/blob/main/Basics/demo.cpp)
 - [Functions](https://github.com/rajtejaswee/Data-Structure-and-Algorithm/blob/main/Basics/functions.cpp)
 - [Vectors](https://github.com/rajtejaswee/Data-Structure-and-Algorithm/blob/main/Basics/vector.cpp)
@@ -21,8 +48,29 @@ Each topic includes a list of handpicked problems (mostly from **LeetCode** and 
 
 | Problem | Difficulty | Link |
 |----------|-------------|------|
-| Two Sum | 🟢 Easy | [LeetCode](https://leetcode.com/problems/two-sum/) |
+| Count Digits | 🟢 Easy | [Code](https://github.com/rajtejaswee/Data-Structure-and-Algorithm/blob/main/Maths/countdigits.cpp) | <br>
+| Reverse Number | 🟢 Easy | [Code](https://github.com/rajtejaswee/Data-Structure-and-Algorithm/blob/main/Maths/reversenumber.cpp) | <br>
+| Pallindrome Number | 🟢 Easy | [Code](https://github.com/rajtejaswee/Data-Structure-and-Algorithm/blob/main/Maths/pallindromenumber.cpp) | <br>
+| Check Prime | 🟢 Easy | [Code](https://github.com/rajtejaswee/Data-Structure-and-Algorithm/blob/main/Maths/checkprime.cpp) | <br>
+| GCD of two numbers | 🟢 Easy | [Code](https://github.com/rajtejaswee/Data-Structure-and-Algorithm/blob/main/Maths/gcd.cpp) | <br>
+| Print all Divisors | 🟢 Easy | [Code](https://github.com/rajtejaswee/Data-Structure-and-Algorithm/blob/main/Maths/printalldivisors.cpp) | <br>
+| Armstrong Number | 🟢 Easy | [Code](https://github.com/rajtejaswee/Data-Structure-and-Algorithm/blob/main/Maths/armstrongnumber.cpp) | <br>
 
+## Basic Recursion
+> Know Basic Recursion.
+
+| Problem | Difficulty | Link |
+|----------|-------------|------|
+| Print Name using Recursion | 🟢 Easy | [Code](https://github.com/rajtejaswee/Data-Structure-and-Algorithm/blob/main/Basic_Recursion/name.cpp) | <br>
+| Print Number from 1 to N | 🟢 Easy | [Code](https://github.com/rajtejaswee/Data-Structure-and-Algorithm/blob/main/Basic_Recursion/number_1_to_n.cpp) | <br>
+| Print Number from N to 1 | 🟢 Easy | [Code](https://github.com/rajtejaswee/Data-Structure-and-Algorithm/blob/main/Basic_Recursion/number_n_to_1.cpp) | <br>
+| Print Number from 1 to N using Backtracking | 🟢 Easy | [Code](https://github.com/rajtejaswee/Data-Structure-and-Algorithm/blob/main/Basic_Recursion/num_backtrack1.cpp) | <br>
+| Print Number from N to 1 using Backtracking | 🟢 Easy | [Code](https://github.com/rajtejaswee/Data-Structure-and-Algorithm/blob/main/Basic_Recursion/num_backtrackN.cpp) | <br>
+| Sum of Natural Number | 🟡 Medium | [Code](https://github.com/rajtejaswee/Data-Structure-and-Algorithm/blob/main/Basic_Recursion/sum_of_natural_numbers.cpp) | <br>
+| Check String is Pallindrome | 🟡 Medium | [Code](https://github.com/rajtejaswee/Data-Structure-and-Algorithm/blob/main/Basic_Recursion/stringpallidrome.cpp) | <br>
+| Reverse of the Array | 🟡 Medium | [Code](https://github.com/rajtejaswee/Data-Structure-and-Algorithm/blob/main/Basic_Recursion/reverseArray.cpp) | <br>
+| Factorial of the Number | 🟡 Medium | [Code](https://github.com/rajtejaswee/Data-Structure-and-Algorithm/blob/main/Basic_Recursion/factorial.cpp) | <br>
+| Fibonacci Number | 🟡 Medium | [Code](https://github.com/rajtejaswee/Data-Structure-and-Algorithm/blob/main/Basic_Recursion/fibonaci.cpp) | <br>
 ---
 
 
@@ -178,7 +226,11 @@ List of 100 beginner friendly questions on codeforces
 | Nearly Lucky Number | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/110/A) | <br>
 | Stone on the Table | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/266/A) | <br>
 | Panoramix's Prediction | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/80/A) | <br>
-| Ultra-Fast Mathematician | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/61/A) | <br>
+| Perfect Permutation | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/233/A) | <br>
+| Arrival of the General | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/144/A) | <br>
+| Drinks | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/200/B) | <br>
+| Insomnia cure | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/148/A) | <br>
+| Cupboards | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/248/A) | <br>
 
 ---
 
@@ -187,18 +239,12 @@ List of 100 beginner friendly questions on codeforces
 - Keep your progress tracked topic-wise.  
 - Optionally include your code snippets in `/solutions/TopicName/`.
 
----
 
-### 📅 Progress Tracker
-| Topic | Total Qs | Solved | 
-|--------|-----------|---------|
-| Competetive Programming | 100 | 6 | 
-| Arrays | 25 | 5 | 2 |
-| Strings | 30 | 8 | 3 |
-| DP | 40 | 6 | 5 |
+###  Resources
+- [Striver A to Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2)
+- [100-questions-of-codeforces](https://github.com/ankitvashisht12/100-questions-of-codeforces/tree/master?tab=readme-ov-file)
 
 ---
-
 ### 🏁 Goal
 > Strengthen problem-solving skills and prepare for top tech interviews (FAANG, startups, and product-based companies).
 
