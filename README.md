@@ -16,24 +16,15 @@ Each topic includes a list of handpicked problems (mostly from **LeetCode** and 
 - [Set](https://github.com/rajtejaswee/Data-Structure-and-Algorithm/blob/main/Basics/set.cpp)
 - [Map](https://github.com/rajtejaswee/Data-Structure-and-Algorithm/blob/main/Basics/map.cpp)
 
-## Competitive Programming
-> Mastering Competitive Programming on Codeforces,
-List of 100 beginner friendly questions on codeforces
+## Basic Maths
+> Know Basic Maths.
 
 | Problem | Difficulty | Link |
 |----------|-------------|------|
-| Young Physicist | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/69/A) | <br>
-| Beautiful Matrix | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/263/A) | <br>
-| Queue at the School | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/266/B) | <br>
-| Borze | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/32/B) | <br>
-| Beautiful Year | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/271/A) | <br>
-| Lights out | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/275/A) | <br>
-| Word | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/59/A) | <br>
-| Word Capitalization | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/281/A) | <br>
-| Nearly Lucky Number | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/110/A) | <br>
-| Stone on the Table | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/266/A) | <br>
-| Panoramix's Prediction | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/80/A) | <br>
-| Ultra-Fast Mathematician | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/61/A) | <br>
+| Two Sum | 🟢 Easy | [LeetCode](https://leetcode.com/problems/two-sum/) |
+
+---
+
 
 ## 📘 1. Arrays
 > Mastering traversals, subarrays, prefix sums, and in-place manipulations.
@@ -167,6 +158,27 @@ List of 100 beginner friendly questions on codeforces
 | Problem | Difficulty | Link |
 |----------|-------------|------|
 | Implement Trie (Prefix Tree) | 🟡 Medium | [Demo Link](https://leetcode.com/problems/implement-trie-prefix-tree/) |
+
+---
+
+## Competitive Programming
+> Mastering Competitive Programming on Codeforces,
+List of 100 beginner friendly questions on codeforces
+
+| Problem | Difficulty | Link |
+|----------|-------------|------|
+| Young Physicist | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/69/A) | <br>
+| Beautiful Matrix | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/263/A) | <br>
+| Queue at the School | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/266/B) | <br>
+| Borze | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/32/B) | <br>
+| Beautiful Year | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/271/A) | <br>
+| Lights out | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/275/A) | <br>
+| Word | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/59/A) | <br>
+| Word Capitalization | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/281/A) | <br>
+| Nearly Lucky Number | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/110/A) | <br>
+| Stone on the Table | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/266/A) | <br>
+| Panoramix's Prediction | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/80/A) | <br>
+| Ultra-Fast Mathematician | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/61/A) | <br>
 
 ---
 
