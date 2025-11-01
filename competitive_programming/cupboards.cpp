@@ -14,7 +14,7 @@ int main() {
             right_open++;
     }
 
-    int left_flip = min(left_open, n - left_flip);
+    int left_flip = min(left_open, n - left_open);
     int right_flip = min(right_open, n - right_open);
 
     cout << left_flip + right_flip << endl;

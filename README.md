@@ -231,6 +231,10 @@ List of 100 beginner friendly questions on codeforces
 | Drinks | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/200/B) | <br>
 | Insomnia cure | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/148/A) | <br>
 | Cupboards | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/248/A) | <br>
+| I_love_%username% | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/155/A) | <br>
+| Tram | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/116/A) | <br>
+
+
 
 ---
 
