@@ -109,7 +109,7 @@ Each topic includes a list of handpicked problems (mostly from **LeetCode** and 
 > Mastering traversals, subarrays, prefix sums, and in-place manipulations.
 
 | Problem | Difficulty | Link | Solution |
-|----------|-------------|------|
+|---------|------------|------|----------|
 | Two Sum | 🟢 Easy | [LeetCode](https://leetcode.com/problems/two-sum/) | [Solution](https://leetcode.com/problems/two-sum/) |
 
 ---
@@ -269,7 +269,8 @@ List of 100 beginner friendly questions on codeforces
 | Way to Long Words | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/71/A) | <br>
 | Boy or Girl | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/236/A) | <br>
 | Amusing Joke | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/141/A) | <br>
-
+| Soft Drinks | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/151/A) | <br>
+| HQ9+ | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/133/A) | <br>
 
 ---
 
