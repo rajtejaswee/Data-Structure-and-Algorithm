@@ -8,7 +8,7 @@ Each topic includes a list of handpicked problems (mostly from **LeetCode** and 
 ### 📅 Progress Tracker
 | Topic | Total Qs | Solved | Status | 
 |--------|-----------|---------|---------|
-| Basic Competitive Programming | 100 | 24 | In Progress 🧪 |
+| Basic Competitive Programming | 100 | 28 | In Progress 🧪 |
 | Basic Maths | 07 | 07 | Completed ✅ |
 | Basic Recursion | 10 | 10 | Completed ✅ | 
 | Hashing | 4 | 4 | Completed ✅ | 
@@ -271,6 +271,10 @@ List of 100 beginner friendly questions on codeforces
 | Amusing Joke | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/141/A) | <br>
 | Soft Drinks | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/151/A) | <br>
 | HQ9+ | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/133/A) | <br>
+| Petya and Strings | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/112/A) | <br>
+| Team | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/231/A) | <br>
+| Bit++ | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/282/A) | <br>
+| Effective Approach | 🟡 Medium | [Codeforces](https://codeforces.com/problemset/problem/227/B) | <br>
 
 ---
 
