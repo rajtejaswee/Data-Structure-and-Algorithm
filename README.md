@@ -275,6 +275,8 @@ List of 100 beginner friendly questions on codeforces
 | Team | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/231/A) | <br>
 | Bit++ | 🟢 Easy | [Codeforces](https://codeforces.com/problemset/problem/282/A) | <br>
 | Effective Approach | 🟡 Medium | [Codeforces](https://codeforces.com/problemset/problem/227/B) | <br>
+| Jzzhu and Children | 🟡 Medium | [Codeforces](https://codeforces.com/problemset/problem/450/A) | <br>
+| Effective Approach | 🟡 Medium | [Codeforces](https://codeforces.com/problemset/problem/227/B) | <br>
 
 ---
 
