@@ -56,7 +56,7 @@
             "command": "/bin/bash",
             "args": [
                 "-c",
-                "mkdir -p \"${fileDirname}/binary files\" && /opt/homebrew/bin/g++-15 -std=c++17 -O2 -Wall \"${file}\" -o \"${fileDirname}/binary files/${fileBasenameNoExtension}\" && \"${fileDirname}/binary files/${fileBasenameNoExtension}\" < \"${fileDirname}/input.txt\" > \"${fileDirname}/output.txt\""
+                "mkdir -p \"${fileDirname}/binary_files\" && /opt/homebrew/bin/g++-15 -std=c++17 -O2 -Wall \"${file}\" -o \"${fileDirname}/binary_files/${fileBasenameNoExtension}\" && \"${fileDirname}/binary_files/${fileBasenameNoExtension}\" < \"${fileDirname}/input.txt\" > \"${fileDirname}/output.txt\""
             ],
             "group": {
                 "kind": "build",
