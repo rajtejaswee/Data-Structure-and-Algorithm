@@ -1,4 +1,4 @@
-#include <bits/stdc++.h>
+#include<bits/stdc++.h>
 using namespace std;
 
 int main() {
@@ -18,7 +18,7 @@ int main() {
     for (int dima = 1; dima <= 5; dima++) {
         int final_pos = (sum + dima) % totalPeople;
         if (final_pos == 0) final_pos = totalPeople; 
-        
+
 
         if (final_pos != 1) countWays++;  
     }

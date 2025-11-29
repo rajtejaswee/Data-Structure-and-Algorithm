@@ -9,14 +9,22 @@ int main(){
     }
     int target;
     cin >> target;
-    for (int i = 0; i < n; i++) {
+    bool flag = false;
+    for (int i = 0; i < n; i++)
+    {
         if(arr[i] == target){
-            cout << target << "is present at index" << endl;
+            flag = true;
             break;
         }
         else {
-            cout << target << "is not present" << endl;
+            flag = false;
         }
+    }
+    if(flag){
+        cout << target << " is present" << endl;
+    }
+    else {
+        cout << target << " is not present" << endl;
     }
     return 0;
 }
