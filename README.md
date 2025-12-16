@@ -14,7 +14,7 @@ Each topic includes a list of handpicked problems (mostly from **LeetCode** and 
 | Hashing | 4 | 4 | Completed ✅ | 
 | Sorting | 5 | 5 | Completed ✅ | 
 | Arrays | 40 | 0 | Not Started ❌ |
-| Binary Search | 32 | 0 | Not Started ❌ |
+| Binary Search | 32 | 1 | In Progress 🧪 |
 | String | 24 | 0 | Not Started ❌ |
 | Linked List | 31 | 0 | Not Started ❌ |
 | Recursion | 25 | 0 | Not Started ❌ |
