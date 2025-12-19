@@ -4,8 +4,6 @@ using namespace std;
 
 int main(){
 	string s,t;
-	getline(cin, s);
-	getline(cin, t);
 
 	int s_len = s.length();
 	 int t_len = t.length();
