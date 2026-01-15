@@ -8,13 +8,13 @@ Each topic includes a list of handpicked problems (mostly from **LeetCode** and 
 ### 📅 Progress Tracker
 | Topic | Total Qs | Solved | Status | 
 |--------|-----------|---------|---------|
-| Basic Competitive Programming | 100 | 38 | In Progress 🧪 |
+| Competitive Programming | 100 | 53 | In Progress 🧪 |
 | Basic Maths | 07 | 07 | Completed ✅ |
 | Basic Recursion | 10 | 10 | Completed ✅ | 
 | Hashing | 4 | 4 | Completed ✅ | 
 | Sorting | 5 | 5 | Completed ✅ | 
-| Arrays | 40 | 0 | Not Started ❌ |
-| Binary Search | 32 | 1 | In Progress 🧪 |
+| Arrays | 40 | 28 | In Progress 🧪 |
+| Binary Search | 32 | 18 | In Progress 🧪 |
 | String | 24 | 0 | Not Started ❌ |
 | Linked List | 31 | 0 | Not Started ❌ |
 | Recursion | 25 | 0 | Not Started ❌ |
@@ -111,15 +111,6 @@ Each topic includes a list of handpicked problems (mostly from **LeetCode** and 
 | Problem | Difficulty | Link | Solution |
 |---------|------------|------|----------|
 | Two Sum | 🟢 Easy | [LeetCode](https://leetcode.com/problems/two-sum/) | [Solution](https://leetcode.com/problems/two-sum/) |
-
----
-
-## 🔢 2. Sorting
-> Classic sorting techniques and custom comparator-based problems.
-
-| Problem | Difficulty | Link |
-|----------|-------------|------|
-| Merge Sort | 🟡 Medium | [Demo Link](https://leetcode.com/problems/merge-sorted-array/) |
 
 ---
 
